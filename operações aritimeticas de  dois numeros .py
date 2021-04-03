@@ -1,0 +1,6 @@
+n1=int(input('digite um numero:'))
+n2=int(input('digite outronumero:'))
+print('soma total dos numeros é ', n1 + n2)
+print('a subtração dos numero é',n1 - n2)
+print('a multiplicação dos numeros é ', n1 * n2)
+print('a divisão dos nuemros é ', n1 / n2 )
